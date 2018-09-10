@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="city_Name">Dhaka,BD</string>
+    <string name="wind">Wind</string>
+    <string name="cloud">Cloud</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="last_update">Last Update</string>
+    <string name="chnge_city">Change City</string>
+</resources>
