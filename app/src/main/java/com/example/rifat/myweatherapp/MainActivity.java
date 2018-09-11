@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        city = "San Francisco,US"; //default
+        city = "Dhaka,BD"; //default
 
         cityName = (TextView) findViewById(R.id.cityNametxt);
         iconView = (ImageView) findViewById(R.id.image_viewId);
